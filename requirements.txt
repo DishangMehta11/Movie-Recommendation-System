@@ -1,3 +1,2 @@
 streamlit
 requests
-pandas==0.23.3
